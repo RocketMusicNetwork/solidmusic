@@ -1,5 +1,5 @@
 {
-  "name": "silent boy music repo",
+  "name": "solid music repo",
   "description": "Open Source bot to stream media trough Telegram Voice Chat",
   "repository": "https://github.com/DoellBarr/solidmusic",
   "stack": "container",
